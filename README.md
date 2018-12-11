@@ -7,6 +7,8 @@ Foobar is a Python library for dealing with word pluralization.
 This component is effective structure more than [interactable](https://github.com/wix/react-native-interactable) component 
 
 ```bash
+$ npm install react-native-gesture-responder --save
+
 $ npm install react-native-kk-closest-point --save
 ```
 
